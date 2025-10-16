@@ -12,3 +12,7 @@ Features:
 Contributors:
 - Shrinath Petkar
 - Kunal Kakade
+
+---
+
+Version: 1.00
