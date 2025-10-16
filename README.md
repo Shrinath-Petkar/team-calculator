@@ -7,3 +7,7 @@ Features:
 - Advanced operations (sqrt, power, percentage)
 - Command-line user interface
 
+---
+
+Contributors:
+- Shrinath Petkar
